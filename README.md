@@ -8,11 +8,12 @@ This repository documents my progress and solutions for the ACC's 45-day coding 
 
 ## Daily Progress
 
-  **my daily progress will soon be updated here!**
+  **Day 1**
+  - An Interactive Introduction in C
 
 ## Directory Structure
 
-- **updating soon**
+- 1. A friendly introduction
 
 ## Contact
 
