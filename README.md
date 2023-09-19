@@ -10,10 +10,13 @@ This repository documents my progress and solutions for the ACC's 45-day coding 
 
   **Day 1**
   - An Interactive Introduction in C
+  **Day 2**
+  - Bricks Calculator in C
 
 ## Directory Structure
 
-- 1. A friendly introduction
+ - A friendly introduction
+ - bricks
 
 ## Contact
 
