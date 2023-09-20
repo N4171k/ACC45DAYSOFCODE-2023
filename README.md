@@ -9,11 +9,11 @@ This repository documents my progress and solutions for the ACC's 45-day coding 
 ## Daily Progress
 
   **Day 1**
-  - An Interactive Introduction in C
+  - An Interactive Introduction in C.
   **Day 2**
-  - Bricks Calculator in C
+  - Bricks Calculator in C.
   **Day 3**
-  - Guess the number! in C
+  - Guess the number! in C.
 
 ## Directory Structure
 
