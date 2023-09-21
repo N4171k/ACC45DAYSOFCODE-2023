@@ -14,6 +14,8 @@ This repository documents my progress and solutions for the ACC's 45-day coding 
    - Bricks Calculator in C.
  - **Day 3**
    - Guess the number! in C.
+ - **Day 4**
+   - Basic Calculator in C.
 
 ## Directory Structure
 
