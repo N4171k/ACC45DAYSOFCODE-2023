@@ -22,6 +22,7 @@ This repository documents my progress and solutions for the ACC's 45-day coding 
  - A friendly introduction
  - bricks
  - guess the number
+ - Basic Calculator
 
 ## Contact
 
