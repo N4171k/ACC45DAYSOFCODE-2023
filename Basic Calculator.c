@@ -40,7 +40,7 @@ int main() {
                 }
                 break;
             case 5:
-                printf("Exiting the program. Goodbye! do not forget to follow me on socials @ https://www.linkedin.com/in/iamnaitik/ \n");
+                printf("Exiting the program. Goodbye! do not forget to follow me on socials at https://www.linkedin.com/in/iamnaitik/ \n");
                 return 0;
             default:
                 printf("Invalid choice. Please enter a valid option (1-5).\n");
