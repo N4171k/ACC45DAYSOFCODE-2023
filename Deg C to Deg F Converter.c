@@ -27,7 +27,7 @@ int main() {
             break;
         default:
             printf("Invalid choice. Please select 1 or 2.\n");
-            printF("You can track the challange @ https://www.linkedin.com/in/iamnaitik");
+            
             break;
     }
 
