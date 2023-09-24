@@ -19,7 +19,7 @@ int main() {
 
   
   if (q == 1) {
-    printf("Happy to hear that!\n");
+    printf("Happy to hear that! you can also track the progress @https://www.linkedin.com/in/iamnaitik/\n");
   } else {
     printf("Thank you for staying with me. Want to stay connected? Follow me on socials @ https://www.linkedin.com/in/iamnaitik/\n");
   }
