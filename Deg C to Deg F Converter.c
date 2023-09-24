@@ -16,15 +16,18 @@ int main() {
             scanf("%f", &temperature);
             convertedTemperature = (temperature * 9/5) + 32;
             printf("%.2f degrees Celsius is equal to %.2f degrees Fahrenheit\n", temperature, convertedTemperature);
+            printF("You can track the challange @ https://www.linkedin.com/in/iamnaitik");
             break;
         case 2:
             printf("Enter temperature in Fahrenheit: ");
             scanf("%f", &temperature);
             convertedTemperature = (temperature - 32) * 5/9;
             printf("%.2f degrees Fahrenheit is equal to %.2f degrees Celsius\n", temperature, convertedTemperature);
+            printF("You can track the challange @ https://www.linkedin.com/in/iamnaitik");
             break;
         default:
             printf("Invalid choice. Please select 1 or 2.\n");
+            printF("You can track the challange @ https://www.linkedin.com/in/iamnaitik");
             break;
     }
 
