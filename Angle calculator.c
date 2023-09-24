@@ -12,12 +12,12 @@ int main() {
     printf("Side 3: ");
     scanf("%lf", &side3);
 
-    // Calculate angles using the law of cosines
+
     double cosA = (side2*side2 + side3*side3 - side1*side1) / (2 * side2 * side3);
     double cosB = (side1*side1 + side3*side3 - side2*side2) / (2 * side1 * side3);
     double cosC = (side1*side1 + side2*side2 - side3*side3) / (2 * side1 * side2);
 
-    // Convert cosines to angles (in degrees)
+
     angle1 = acos(cosA) * 180.0 / 3.14159265;
     angle2 = acos(cosB) * 180.0 / 3.14159265;
     angle3 = acos(cosC) * 180.0 / 3.14159265;
