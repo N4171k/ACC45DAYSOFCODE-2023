@@ -49,7 +49,7 @@ int main() {
                 printf("Exiting Password Manager.\n");
                 return 0;
             default:
-                printf("Invalid choice. Please try again.\n");
+                printf("Invalid selection. Please try again.\n");
         }
     }
 
