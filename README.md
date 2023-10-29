@@ -125,6 +125,9 @@ This repository documents my progress and solutions for the ACC's 45-day coding 
 - **Day 41 (28/10/2023):**
   - [license_checker.c](license_checker.c)
 
+- **Day 42 (29/10/2023):**
+  - [It_is_my_serve.c](It_is_my_serve.c)
+
 ## Directory Structure
 
  - A friendly introduction
